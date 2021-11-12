@@ -1,0 +1,18 @@
+html{
+    background-color: crimson;
+}
+body{
+    background-color: cornsilk;
+    width: 600px;
+    border: 2px solid darkslategray;
+    padding: 2px 35px 30px 30px; /*отступы*/
+    margin: 0 auto; /* центрирует*/
+}
+h1{
+    color: darkviolet;
+}
+img{
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px 20px 15px 30px; 
+}
